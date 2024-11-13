@@ -1,1 +1,16 @@
+This milestone focuses on analyzing the spatial patterns of solar installations by comparing urban and rural footprints. To prepare the data, non-essential columns, such as unique identifiers and redundant fields, were removed to simplify the dataset and enhance processing efficiency. Missing values, especially in critical fields like “Substation CASIO Name,” were filled with placeholder text to ensure data completeness and maintain dataset integrity.
+The analysis involved aggregating the acreage of solar installations by county and by urban or rural classification. This aggregation allowed for a comprehensive view of the total land area utilized for solar installations across different counties. To compare these distributions, we employed various visualizations. A box plot was used to illustrate the differences in acreage between urban and rural installations, focusing on the largest counties to reduce noise and highlight key trends in land use.
+Further visual exploration was conducted with scatter plots and histograms. The scatter plot provided insights into individual installation sizes and helped identify clustering trends between urban and rural areas. Meanwhile, the histogram offered a breakdown of installation sizes across these regions, showcasing the frequency of different acreage ranges. Together, these analyses provide a detailed picture of how solar installations vary in size and distribution across urban and rural landscapes, establishing a foundation for understanding regional patterns in solar infrastructure.
+
+
+
+
+
+
+
+
+
+
+
+
 
